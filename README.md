@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="assets/foods66-banner.png" alt="Foods66 – Online Food Ordering System" width="100%" />
+  <img src="assets/foods66-banner.png" width="100%" />
 </p>
+
+<h1 align="center">Foods66 - Food Delivery App with MongoDB</h1>
+
 
 
 # Foods66 - Food Delivery App with MongoDB
