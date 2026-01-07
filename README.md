@@ -1,6 +1,7 @@
-<div align="center">
-<img width="1200" height="475" alt="Foods66 Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<p align="center">
+  <img src="assets/foods66-banner.png" alt="Foods66 – Online Food Ordering System" width="100%" />
+</p>
+
 
 # Foods66 - Food Delivery App with MongoDB
 
