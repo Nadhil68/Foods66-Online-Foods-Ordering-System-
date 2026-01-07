@@ -1,13 +1,4 @@
-<p align="center">
-  <img src="assets/foods66-banner.png" width="100%" />
-</p>
-
-<h1 align="center">Foods66 - Food Delivery App with MongoDB</h1>
-
-
-
-# Foods66 - Food Delivery App with MongoDB
-
+# Foods66 - Food Delivery App 
 A modern food delivery application built with React, TypeScript, and Vite, powered by MongoDB for data persistence and Gemini AI for intelligent recommendations.
 
 ## Features
